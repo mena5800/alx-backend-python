@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-from typing import Sequence, Any, Union, Optional
+"""this module contain function make_multiplier"""
+
+from typing import Sequence, Any, Optional
 
 
 def safe_first_element(lst: Sequence[Any]) -> Optional[Any]:
